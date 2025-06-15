@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Jarvis-Bot
-A speech Recognition App that converts text to speech and vice versa.
-=======
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
