@@ -81,7 +81,7 @@ const JarvisBot = () => {
 
   return (
     <div className="Jarvis-Bot">
-      <h1 className="text-3xl font-bold mb-4">🧠 Jarvis Bot Voice Assistant</h1>
+      <h1 className="text-3xl font-bold mb-4"> <img style={{width: "44px", height: "41px"}} src="/iron-man.png" alt="iron-man" /> Jarvis Bot Voice Assistant</h1>
       <a href="https://git.io/typing-svg">
         <img
           style={{ paddingLeft: "110px" }}
